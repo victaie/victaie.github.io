@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World - Vno
+title: 新年最后一天搭建自己的个人博客！
 date: 2016-02-16 15:32:24.000000000 +09:00
 ---
 
